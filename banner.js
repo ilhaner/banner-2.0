@@ -1,6 +1,7 @@
 /* ********************************************************** */
-/*    Programlayan : Ýlhan Er     2014  (Ver 1.1)             */
+/*    Programlayan : ilhan Er     2014  (Ver 2.0)             */
 /*     Data'lar                                               */
+/* ********************************************************** */
 
 var reklam = 
 [
@@ -47,17 +48,17 @@ var reklam =
 ];
 	
 /* *************************************************************************************************************************************************** */
-/*  Reklam [Dosya Adý], [Link], [Reklam Tipi:normal,...], [Baþlama Tarihi], [Bitiþ Tarihi], [En], [Boy], [Div Style]                                   */ 
+/*  Reklam [Dosya AdÃ½], [Link], [Reklam Tipi:normal,...], [BaÃ¾lama Tarihi], [BitiÃ¾ Tarihi], [En], [Boy], [Div Style]                                   */ 
 /*                                                                                                                                                     */
-/*  [Dosya Adý]       = Dosyanýn bulunduðu link.                                                                                                       */
+/*  [Dosya AdÃ½]       = DosyanÃ½n bulunduÃ°u link.                                                                                                       */
 /*  [Link]            = Bannerin Link Adresi (Resim ise).  
 /*  [Target]          = Link Target                                                                                            */
-/*  [Reklam Tipi]     = Eðer tek banner ise "normal" yazýlýr. Eðer birkaç banner üst üste gösterilecekse aralarýna "," konulup array numarasý yazýlýr. */
-/*  [Baþlama Tarihi]  = Bannerin gösterilmeye baþlanacaðý tarih (mm/dd/yyy)                                                                            */
-/*  [Bitiþ Tarihi]    = Bannerin gösterilmeye bitirileceði tarih (mm/dd/yyy)                                                                           */
-/*  [En]              = Bannerin geniþliði (piksel)                                                                                                    */
-/*  [Boy]             = Bannerin yüksekliði (piksel)                                                                                                   */
-/*  [Div Style]       = Bannerin etrafýna bir div uygular. Bu div in stili.                                                                            */
+/*  [Reklam Tipi]     = EÃ°er tek banner ise "normal" yazÃ½lÃ½r. EÃ°er birkaÃ§ banner Ã¼st Ã¼ste gÃ¶sterilecekse aralarÃ½na "," konulup array numarasÃ½ yazÃ½lÃ½r. */
+/*  [BaÃ¾lama Tarihi]  = Bannerin gÃ¶sterilmeye baÃ¾lanacaÃ°Ã½ tarih (mm/dd/yyy)                                                                            */
+/*  [BitiÃ¾ Tarihi]    = Bannerin gÃ¶sterilmeye bitirileceÃ°i tarih (mm/dd/yyy)                                                                           */
+/*  [En]              = Bannerin geniÃ¾liÃ°i (piksel)                                                                                                    */
+/*  [Boy]             = Bannerin yÃ¼ksekliÃ°i (piksel)                                                                                                   */
+/*  [Div Style]       = Bannerin etrafÃ½na bir div uygular. Bu div in stili.                                                                            */
 /*                                                                                                                                                     */
 /* *************************************************************************************************************************************************** */
 
